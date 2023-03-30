@@ -2,7 +2,7 @@
 import os 
 
 print("*********************************************************************************")
-print("\t\t\tWelcome User!\t\t\t")
+print("\t\tWelcome User!\t\t")
 print("*********************************************************************************")
 print(" Choose your language from the following  1 , 2 or 3 :")
 print("1. English")
