@@ -75,7 +75,7 @@ class GymApp(tk.Tk):
         frame.tkraise()
 
 
-class Login(tk.Frame):
+class  Login(tk.Frame):
 
     def __init__(self, parent, controller):
         self.controller = controller
