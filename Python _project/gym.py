@@ -4,7 +4,7 @@ import sqlite3
 
 conn = sqlite3.connect('rdxgyms.db')
 
-showPack, showCust = False, False
+showPack,  showCust = False, False
 container = ''
 
 
